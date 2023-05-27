@@ -65,10 +65,10 @@
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ZetsuX">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ZetsuX&count_private=true&show_icons=true&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/ZetsuX">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZetsuX&theme=transparent&layout=compact" />
 </a>
 
