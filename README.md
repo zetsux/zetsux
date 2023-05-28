@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://cdn.discordapp.com/attachments/995337235211763722/1073846057529778246/raingif.gif" alt="cover" />
 </div>
 
-<h1> Nice to see you, fellow Github users! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Nice to see you, fellow Github users! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" align="center" width=50px height='50px'> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ZetsuX.ZetsuX)
@@ -24,7 +24,7 @@
 
 - 💬 Talk to me about anything related to my skills 
 
-<h2> My Tech Stacks <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<h2> My Tech Stacks <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" align="center" width =32px height=32px> </h2>
 <a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=go&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
 <a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
@@ -56,13 +56,13 @@
 <a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=replit&sort= > <img width ='32px' height='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png'> </a>
 
 
-<h2> Connect With Me <img src='https://cdn.discordapp.com/attachments/995337235211763722/1112227266550845481/handshake-46.gif' width="50px" height=50px> </h2>
+<h2> Connect With Me <img src='https://cdn.discordapp.com/attachments/995337235211763722/1112227266550845481/handshake-46.gif' align="center" width="50px" height=50px> </h2>
 <a href = 'https://zetsux.vercel.app/'> <img width = '32px' align= 'center' src="https://cdn.discordapp.com/attachments/995337235211763722/1073846894901608498/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png"/></a> 
 <a href = 'https://www.linkedin.com/in/kevin-nathanael-halim-7618ba252'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/ZetsuX'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
+<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' align="center" width='32px' height=32px> </h2>
 
 <a href="https://github.com/ZetsuX">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ZetsuX&count_private=true&show_icons=true&theme=transparent"/>
