@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on Portfolio and Projects
 
-- 🌱 I’m currently learning New Programming Languages 
+- 🌱 I’m currently learning Software Development
 
 - 👯 I’m looking to collaborate on Projects 
 
@@ -62,14 +62,16 @@
 <a href = 'https://www.github.com/ZetsuX'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 
-
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
 <a href="https://github.com/ZetsuX">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ZetsuX&count_private=true&show_icons=true&theme=transparent" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ZetsuX&count_private=true&show_icons=true&theme=transparent"/>
 </a>
 <a href="https://github.com/ZetsuX">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZetsuX&theme=transparent&layout=compact" />
+</a>
+<a href="https://github.com/ZetsuX">
+<img align="center" src="https://streak-stats.demolab.com/?user=ZetsuX&theme=transparent" />
 </a>
 
 <br><br>
