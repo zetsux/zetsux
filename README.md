@@ -56,7 +56,7 @@
 <a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=replit&sort= > <img width ='32px' height='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png'> </a>
 
 
-<h2> Connect With Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+<h2> Connect With Me <img src='https://cdn.discordapp.com/attachments/995337235211763722/1112227266550845481/handshake-46.gif' width="50px" height=50px> </h2>
 <a href = 'https://zetsux.vercel.app/'> <img width = '32px' align= 'center' src="https://cdn.discordapp.com/attachments/995337235211763722/1073846894901608498/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png"/></a> 
 <a href = 'https://www.linkedin.com/in/kevin-nathanael-halim-7618ba252'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/ZetsuX'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
