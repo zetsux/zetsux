@@ -1,7 +1,3 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://cdn.discordapp.com/attachments/995337235211763722/1073846057529778246/raingif.gif" alt="cover" />
-</div>
-
 <h1> Nice to see you, fellow GitHub users! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" align="center" width=50px height='50px'> </h1>
 <p align='center'>
 
@@ -72,7 +68,3 @@
 <a href = 'https://zetsux.vercel.app/'> <img width = '32px' align= 'center' src="https://cdn.discordapp.com/attachments/995337235211763722/1073846894901608498/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png"/></a> 
 <a href = 'https://www.linkedin.com/in/kevin-nathanael-halim-7618ba252'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/ZetsuX'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-
-<h2> Here's your dose of programming joke <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=cobalt)
