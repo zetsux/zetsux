@@ -9,7 +9,7 @@
 
 <h2> About myself </h2>
 
-<img width="55%" align="right" alt="FunGif" src="https://cdn.discordapp.com/attachments/995337235211763722/1073844608217382953/ezgif.com-crop.gif" />
+<img width="46%" align="right" alt="FunGif" src="https://cdn.discordapp.com/attachments/995337235211763722/1073844608217382953/ezgif.com-crop.gif" />
 
 
 - 🔭 I’m currently working on Portfolio and Projects
@@ -22,15 +22,16 @@
 
 <h2> I'm familiar with <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" align="center" width =32px height=32px> </h2>
 <a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=go&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
+<a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
 <a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=c%2B%2B&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=c%23&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 <a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
 <br><br>
 <a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=gin&sort= > <img width ='32px' height='32px' src ='https://avatars.githubusercontent.com/u/15729372?s=280&v=4'> </a>
 <a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
@@ -39,7 +40,6 @@
 <a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=laravel&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>
 <a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' height='32px' src ='https://www.svgrepo.com/show/354113/nextjs-icon.svg'> </a>
-<a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
 <a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
 <a href= https://github.com/ZetsuX?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
 <br><br>
