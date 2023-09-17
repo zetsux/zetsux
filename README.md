@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ZetsuX.ZetsuX)
 
 </p>
-<div size='20px'> Yo! I'm Kevin Nathanael. Welcome to my fun yet comfy Github Profile, nice to see you and enjoy your visit!
+<div size='20px'> Yo! I'm Kevin Nathanael. Welcome to my fun and comfy Github Profile, hope you enjoy your visit here!
 </div>
 
 <h2> About myself </h2>
