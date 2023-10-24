@@ -1,7 +1,7 @@
 <h1> Nice to see you, fellow GitHub users! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" align="center" width=50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ZetsuX.ZetsuX)
+![](https://komarev.com/ghpvc/?username=zetsux&label=profile.views&color=F1C93B)
 [![committers.top badge](https://user-badge.committers.top/indonesia_public/zetsux.svg)](https://user-badge.committers.top/indonesia_public/zetsux)
 
 </p>
