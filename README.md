@@ -2,6 +2,7 @@
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ZetsuX.ZetsuX)
+[![committers.top badge](https://user-badge.committers.top/indonesia_public/zetsux.svg)](https://user-badge.committers.top/indonesia_public/zetsux)
 
 </p>
 <div size='20px'> Hi there, I'm Kevin Nathanael. Welcome to my fun and comfy Github Profile, hope you enjoy your visit here!
