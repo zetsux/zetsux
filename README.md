@@ -57,14 +57,14 @@
 <h2> Check out my GitHub status <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' align="center" width='32px' height=32px> </h2>
 
 <a href="https://github.com/zetsux">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=zetsux&theme=onedark&margin-w=4&margin-h=2&row=1" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=zetsux&theme=darkhub&margin-w=4&margin-h=2&row=1" />
 </a>
-<br><br><br>
+<br><br>
 <a href="https://github.com/zetsux">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=zetsux&count_private=true&show_icons=true&theme=transparent"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zetsux&theme=transparent&layout=compact" />
 </a>
-<br><br><br><br>
+<br><br><br>
 <a href="https://github.com/zetsux">
 <img align="center" src="https://streak-stats.demolab.com/?user=zetsux&theme=transparent" />
 </a>
