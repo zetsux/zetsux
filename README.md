@@ -62,7 +62,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=zetsux&count_private=true&show_icons=true&theme=transparent"/>
 </a>
 <a href="https://github.com/zetsux">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zetsux&theme=transparent&layout=compact" />
+<img align="center" src="https://streak-stats.demolab.com/?user=zetsux&theme=transparent" />
 </a>
 
 <h2> Connect with me <img src='https://cdn.discordapp.com/attachments/995337235211763722/1112227266550845481/handshake-46.gif' align="center" width="50px" height=50px> </h2>
