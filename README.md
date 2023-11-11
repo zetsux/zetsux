@@ -57,13 +57,12 @@
 <a href="https://github.com/zetsux">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=zetsux&theme=onedark&margin-w=4&margin-h=2&row=1" />
 </a>
-<br><br>
+<br><br><br>
 <a href="https://github.com/zetsux">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=zetsux&count_private=true&show_icons=true&theme=transparent"/>
-</a>
-<a href="https://github.com/zetsux">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zetsux&theme=transparent&layout=compact" />
 </a>
+<br><br><br><br>
 <a href="https://github.com/zetsux">
 <img align="center" src="https://streak-stats.demolab.com/?user=zetsux&theme=transparent" />
 </a>
