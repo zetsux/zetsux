@@ -52,17 +52,20 @@
 <a href= https://github.com/zetsux?tab=repositories&q=postman&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=replit&sort= > <img width ='32px' height='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png'> </a>
 
-
 <h2> Check out my GitHub status <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' align="center" width='32px' height=32px> </h2>
 
+<a href="https://github.com/zetsux">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=zetsux&theme=onedark&margin-w=4&margin-h=2&row=1" />
+</a>
+<br><br>
 <a href="https://github.com/zetsux">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=zetsux&count_private=true&show_icons=true&theme=transparent"/>
 </a>
 <a href="https://github.com/zetsux">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zetsux&theme=transparent&layout=compact" />
+<img align="center" src="https://streak-stats.demolab.com/?user=zetsux&theme=transparent" />
 </a>
 <a href="https://github.com/zetsux">
-<img align="center" src="https://streak-stats.demolab.com/?user=zetsux&theme=transparent" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zetsux&theme=transparent&layout=compact" />
 </a>
 
 <h2> Connect with me <img src='https://cdn.discordapp.com/attachments/995337235211763722/1112227266550845481/handshake-46.gif' align="center" width="50px" height=50px> </h2>
