@@ -5,8 +5,10 @@
 [![committers.top badge](https://user-badge.committers.top/indonesia_public/zetsux.svg)](https://user-badge.committers.top/indonesia_public/zetsux)
 
 </p>
-<div size='20px'> Hi there, I'm Kevin Nathanael. Welcome to my fun and comfy Github Profile, hope you enjoy your visit here!
-</div>
+<a href = 'https://zetsux.vercel.app/'> <img width = '32px' align= 'center' src="https://cdn.discordapp.com/attachments/995337235211763722/1073846894901608498/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png"/></a> 
+<a href = 'https://www.linkedin.com/in/kevin-nathanael-halim-7618ba252'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<br><br>
+<div size='20px'> Hi there, I'm Kevin Nathanael. Welcome to my fun and comfy Github Profile, hope you enjoy your visit here!</div>
 
 <h2> About myself </h2>
 
@@ -66,8 +68,3 @@
 <a href="https://github.com/zetsux">
 <img align="center" src="https://streak-stats.demolab.com/?user=zetsux&theme=transparent" />
 </a>
-
-<h2> Connect with me <img src='https://cdn.discordapp.com/attachments/995337235211763722/1112227266550845481/handshake-46.gif' align="center" width="50px" height=50px> </h2>
-<a href = 'https://zetsux.vercel.app/'> <img width = '32px' align= 'center' src="https://cdn.discordapp.com/attachments/995337235211763722/1073846894901608498/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png"/></a> 
-<a href = 'https://www.linkedin.com/in/kevin-nathanael-halim-7618ba252'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/zetsux'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
