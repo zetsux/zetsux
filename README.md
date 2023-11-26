@@ -15,13 +15,9 @@
 <img width="50%" align="right" alt="FunGif" src="https://cdn.discordapp.com/attachments/995337235211763722/1073844608217382953/ezgif.com-crop.gif" />
 
 
-- 🔭 I’m currently working on Portfolio and Projects
-
-- 🌱 I’m currently learning Software Development
-
-- 👯 I’m looking to collaborate on Projects 
-
-- 💬 Talk to me about anything related to my skills 
+- 🔭 I’m currently working on my Portfolio and Projects
+- 🌱 I’m currently learning Software Development & Machine Learning
+- 👯 I’m looking to collaborate on Projects
 
 <h2> I'm familiar with <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" align="center" width =32px height=32px> </h2>
 <a href= https://github.com/zetsux?tab=repositories&q=&type=&language=go&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
