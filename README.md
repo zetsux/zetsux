@@ -34,9 +34,10 @@
 <br><br>
 <a href= https://github.com/zetsux?tab=repositories&q=gin&sort= > <img width ='32px' height='32px' src ='https://avatars.githubusercontent.com/u/15729372?s=280&v=4'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/zetsux?tab=repositories&q=express&sort= > <img width ='32px' height='32px' src ='https://moldoweb.com/wp-content/uploads/2022/03/6202fcdee5ee8636a145a41b_1234.png'> </a>
+<a href= https://github.com/zetsux?tab=repositories&q=express&sort= > <img width ='32px' height='32px' src ='https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=hapijs&sort= > <img width ='32px' height='32px' src ='https://avatars.githubusercontent.com/u/3774533?s=280&v=4'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=laravel&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>
+<a href= https://github.com/zetsux?tab=repositories&q=codeigniter&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/codeigniter.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=nextjs&sort= > <img width ='32px' height='32px' src ='https://www.svgrepo.com/show/354113/nextjs-icon.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=bootstrap&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
