@@ -17,7 +17,6 @@
 
 - 🔭 I’m currently working on my Portfolio and Projects
 - 🌱 I’m currently learning Software Development & Machine Learning
-- 👯 I’m looking to collaborate on Projects
 
 <h2> I'm familiar with <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" align="center" width =32px height=32px> </h2>
 <a href= https://github.com/zetsux?tab=repositories&q=&type=&language=go&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
