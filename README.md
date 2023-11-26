@@ -62,9 +62,5 @@
 <br><br>
 <a href="https://github.com/zetsux">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=zetsux&count_private=true&show_icons=true&theme=transparent"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zetsux&theme=transparent&layout=compact" />
-</a>
-<br><br><br>
-<a href="https://github.com/zetsux">
-<img align="center" src="https://streak-stats.demolab.com/?user=zetsux&theme=transparent" />
+<img align="center" src="https://streak-stats.demolab.com/?user=zetsux&theme=transparent&card_width=421" />
 </a>
