@@ -62,5 +62,5 @@
 <br><br>
 <a href="https://github.com/zetsux">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=zetsux&count_private=true&show_icons=true&theme=transparent"/>
-<img align="center" src="https://streak-stats.demolab.com/?user=zetsux&theme=transparent&card_width=421" />
+<img align="center" src="https://streak-stats.demolab.com/?user=zetsux&theme=transparent&card_width=340" />
 </a>
