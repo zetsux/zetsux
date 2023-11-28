@@ -15,7 +15,7 @@
 <img width="50%" align="right" alt="FunGif" src="https://cdn.discordapp.com/attachments/995337235211763722/1073844608217382953/ezgif.com-crop.gif" />
 
 
-- 🔭 I’m currently working on my Portfolio and Projects
+- 🔭 I’m currently working on Back-end Development
 - 🌱 I’m currently learning Software Development & ML
 - 👯 I’m looking to collaborate on Projects
 
