@@ -12,8 +12,7 @@
 
 <h2> About myself </h2>
 
-<img width="50%" align="right" alt="FunGif" src="https://cdn.discordapp.com/attachments/995337235211763722/1073844608217382953/ezgif.com-crop.gif" />
-
+<a href="https://zetsux.vercel.app/"><img width="50%" align="right" alt="FunGif" src="https://cdn.discordapp.com/attachments/995337235211763722/1073844608217382953/ezgif.com-crop.gif" /></a>
 
 - 🔭 I’m currently working on Back-end Development
 - 🌱 I’m currently learning Software Development & ML
