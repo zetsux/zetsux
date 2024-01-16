@@ -1,4 +1,4 @@
-<h1> Nice to see you, fellow GitHub users! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" align="center" width=50px height='50px'> </h1>
+<h1> Nice to see you, fellow GitHub users! <img src = "https://github.com/zetsux/one-problem-per-day/assets/108170234/5bf8f178-7785-4ce1-940b-9d41420c7024" align="center" width=50px height='50px'> </h1>
 <p align='center'>
 
 ![](https://komarev.com/ghpvc/?username=zetsux&label=profile.views&color=F1C93B)
@@ -10,7 +10,8 @@
 <br><br>
 <div size='20px'> Hi there, I'm Kevin Nathanael. Welcome to my fun and comfy Github Profile, hope you enjoy your visit here!</div>
 
-<h2> About myself </h2>
+<h2> About myself <img src = "https://github.com/zetsux/one-problem-per-day/assets/108170234/254ffba6-32af-41d4-83f3-33dae74209a0" align="center" width=50px height='50px'> </h1>
+<p align='center'> </h2>
 
 <a href="https://zetsux.vercel.app/"><img width="50%" align="right" alt="FunGif" src="https://cdn.discordapp.com/attachments/995337235211763722/1073844608217382953/ezgif.com-crop.gif" /></a>
 
