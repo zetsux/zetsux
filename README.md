@@ -27,6 +27,7 @@
 <a href= https://github.com/zetsux?tab=repositories&q=&type=&language=c%2B%2B&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=&type=&language=c%23&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+<a href= https://github.com/zetsux?tab=repositories&q=&type=&language=clips&sort= > <img width ='32px' height='32px' src ='https://clipsrules.net/clipsicon.png'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -38,6 +39,8 @@
 <a href= https://github.com/zetsux?tab=repositories&q=hapijs&sort= > <img width ='32px' height='32px' src ='https://avatars.githubusercontent.com/u/3774533?s=280&v=4'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=laravel&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=codeigniter&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/codeigniter.svg'> </a>
+<a href= https://github.com/zetsux?tab=repositories&q=net&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'> </a>
+<a href= https://github.com/zetsux?tab=repositories&q=tensorflow&sort= > <img width ='32px' height='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=nextjs&sort= > <img width ='32px' height='32px' src ='https://www.svgrepo.com/show/354113/nextjs-icon.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=bootstrap&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
@@ -48,7 +51,10 @@
 <a href= https://github.com/zetsux?tab=repositories&q=postgre&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=mongodb&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=graphql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'> </a>
-<a href= https://github.com/zetsux?tab=repositories&q=tensorflow&sort= > <img width ='32px' height='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png'> </a>
+<a href= https://github.com/zetsux?tab=repositories&q=redis&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg'> </a>
+<a href= https://github.com/zetsux?tab=repositories&q=rabbitmq&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rabbitmq.svg'> </a>
+<a href= https://github.com/zetsux?tab=repositories&q=aws&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
+<a href= https://github.com/zetsux?tab=repositories&q=google&sort= > <img width ='32px' height='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/2048px-Google_%22G%22_logo.svg.png'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=postman&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=vscode&sort= > <img width ='32px' height='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png'> </a>
