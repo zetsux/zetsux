@@ -5,7 +5,7 @@
 [![committers.top badge](https://user-badge.committers.top/indonesia_public/zetsux.svg)](https://user-badge.committers.top/indonesia_public/zetsux)
 
 </p>
-<a href = 'https://zetsux.vercel.app/'> <img width = '32px' align= 'center' src="https://cdn.discordapp.com/attachments/995337235211763722/1073846894901608498/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png"/></a> 
+<a href = 'https://zetsux.vercel.app/'> <img width = '32px' align= 'center' src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-wikt-globe-bullet-svg-wikimedia-commons-19.png"/></a> 
 <a href = 'https://www.linkedin.com/in/kevin-nathanael-halim-7618ba252'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <br><br>
 <div size='20px'> Hi there, I'm Kevin Nathanael. Welcome to my fun and comfy Github Profile, hope you enjoy your visit here!</div>
