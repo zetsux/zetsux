@@ -13,8 +13,6 @@
 <h2> About myself <img src = "https://github.com/zetsux/one-problem-per-day/assets/108170234/254ffba6-32af-41d4-83f3-33dae74209a0" align="center" width=40px height=40px> </h1>
 <p align='center'> </h2>
 
-<a href="https://zetsux.vercel.app/"><img width="48%" align="right" alt="FunGif" src="https://cdn.discordapp.com/attachments/995337235211763722/1073844608217382953/ezgif.com-crop.gif" /></a>
-
 - 🔭 I’m currently working on Back-end Development
 - 🌱 I’m currently learning Software Development & ML
 - 👯 I’m looking to collaborate on Projects
