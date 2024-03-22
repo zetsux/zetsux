@@ -13,7 +13,7 @@
 <h2> About myself <img src = "https://github.com/zetsux/one-problem-per-day/assets/108170234/254ffba6-32af-41d4-83f3-33dae74209a0" align="center" width=40px height=40px> </h1>
 <p align='center'> </h2>
 
-- 🔭 I’m currently working on Back-end Development
+- 🔭 I’m currently working on Back-end Development, mostly using Gin (Go) and Laravel (PHP)
 - 🌱 I’m currently learning about Cloud Computing through Bangkit Academy 2024 Batch 1
 - 🔦 I'm currently majoring in Informatics Engineering at Institut Teknologi Sepuluh Nopember (ITS)
 - 👯 I’m looking to collaborate on Projects
