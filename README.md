@@ -14,7 +14,6 @@
 <p align='center'> </h2>
 
 - 🔭 I’m currently working on Back-end Development
-- 🔎 I'm currently experiencing App Development in Apple Ecosystem through Apple Developer Academy @ UC
 - 🌱 I’m currently learning about Cloud Computing through Bangkit Academy 2024 Batch 1
 - 🔦 I'm currently majoring in Informatics Engineering at Institut Teknologi Sepuluh Nopember (ITS)
 - 👯 I’m looking to collaborate on Projects
