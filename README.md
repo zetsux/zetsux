@@ -31,6 +31,7 @@
 <a href= https://github.com/zetsux?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
+<a href= https://github.com/zetsux?tab=repositories&q=&type=&language=swift&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg'> </a>
 <br><br>
 <a href= https://github.com/zetsux?tab=repositories&q=gin&sort= > <img width ='32px' height='32px' src ='https://avatars.githubusercontent.com/u/15729372?s=280&v=4'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
@@ -44,6 +45,7 @@
 <a href= https://github.com/zetsux?tab=repositories&q=nextjs&sort= > <img width ='32px' height='32px' src ='https://www.svgrepo.com/show/354113/nextjs-icon.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=bootstrap&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=tailwind&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
+<a href= https://github.com/zetsux?tab=repositories&q=swiftui&sort= > <img width ='32px' height='32px' src ='https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png'> </a>
 <br><br>
 <a href= https://github.com/zetsux?tab=repositories&q=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=oracle&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/oracle.svg'> </a>
@@ -54,6 +56,7 @@
 <a href= https://github.com/zetsux?tab=repositories&q=rabbitmq&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rabbitmq.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=aws&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=google&sort= > <img width ='32px' height='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/2048px-Google_%22G%22_logo.svg.png'> </a>
+<a href= https://github.com/zetsux?tab=repositories&q=gcp&sort= > <img width ='32px' height='32px' src ='https://static-00.iconduck.com/assets.00/google-cloud-platform-logo-icon-2048x1824-pg4wzspq.png'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=postman&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=vscode&sort= > <img width ='32px' height='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png'> </a>
