@@ -8,7 +8,7 @@
 <a href = 'https://zetsux.vercel.app/'> <img width = '32px' align= 'center' src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-wikt-globe-bullet-svg-wikimedia-commons-19.png"/></a> 
 <a href = 'https://www.linkedin.com/in/kevin-nathanael-halim-7618ba252'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <br><br>
-<div size='20px'> Hi there, I'm Kevin Nathanael. Welcome to my fun and comfy Github Profile, hope you enjoy your visit here!</div>
+<div size='20px'> Hi there, I'm Kevin Nathanael Halim. Welcome to my Github Profile, hope you enjoy your visit here!</div>
 
 <h2> About myself <img src = "https://github.com/zetsux/one-problem-per-day/assets/108170234/254ffba6-32af-41d4-83f3-33dae74209a0" align="center" width=40px height=40px> </h1>
 <p align='center'> </h2>
