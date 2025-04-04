@@ -15,8 +15,8 @@
 
 - 🔭 I’m currently working on Back-end Development, mostly using Gin (Go) and Laravel (PHP)
 - 📚 I'm currently majoring in Informatics Engineering at Institut Teknologi Sepuluh Nopember (ITS)
-- ☁️ I learned & applied Cloud Computing through Bangkit Academy 2024 Batch 1
-- 🧑‍💻 I learned & applied SwiftUI (Swift) for iOS Development through Apple Developer Academy @ UC 2024 and Catalyst Program 2025
+- ☁️ I worked on Cloud Computing through Bangkit Academy 2024 Batch 1 and graduated with Distinction title
+- 🧑‍💻 I worked on iOS Development through Apple Developer Academy @ UC 2024 and Catalyst Program 2025
 - 👯 I’m looking to collaborate on Projects
 
 <h2> I'm familiar with <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" align="center" width =32px height=32px> </h2>
