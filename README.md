@@ -2,7 +2,7 @@
 <p align='center'>
 
 ![](https://komarev.com/ghpvc/?username=zetsux&label=profile.views&color=F1C93B)
-[![committers.top badge](https://user-badge.committers.top/indonesia_private/USERNAME.svg)](https://user-badge.committers.top/indonesia_private/zetsux)
+[![committers.top badge](https://user-badge.committers.top/indonesia_private/zetsux.svg)](https://user-badge.committers.top/indonesia_private/zetsux)
 
 </p>
 <a href = 'https://zetsux.vercel.app/'> <img width = '32px' align= 'center' src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-wikt-globe-bullet-svg-wikimedia-commons-19.png"/></a> 
