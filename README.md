@@ -13,10 +13,10 @@
 <h2> About myself <img src = "https://github.com/zetsux/one-problem-per-day/assets/108170234/254ffba6-32af-41d4-83f3-33dae74209a0" align="center" width=40px height=40px> </h1>
 <p align='center'> </h2>
 
-- 🔭 I’m currently working on Back-end Development, mostly using Gin (Go) and Laravel (PHP)
-- 📚 I'm currently majoring in Informatics Engineering at Institut Teknologi Sepuluh Nopember (ITS)
-- ☁️ I worked on Cloud Computing through Bangkit Academy 2024 Batch 1 and graduated with Distinction title
-- 🧑‍💻 I worked on iOS Development through Apple Developer Academy @ UC 2024 and Catalyst Program 2025
+- 🔭 I’m working on Back-end Development, mostly using Gin (Go) and Laravel (PHP)
+- 🧑‍💻 I'm exploring iOS & IoT Development through Apple Developer Academy @ UC 2024 and Catalyst Program 2025 with RandL
+- 📚 I've graduated from Informatics Engineering at Institut Teknologi Sepuluh Nopember (ITS)
+- ☁️ I dived into Cloud Computing through Bangkit Academy 2024 Batch 1 and graduated with Distinction title
 - 👯 I’m looking to collaborate on Projects
 
 <h2> I'm familiar with <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" align="center" width =32px height=32px> </h2>
@@ -62,7 +62,7 @@
 <a href= https://github.com/zetsux?tab=repositories&q=postman&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> </a>
 <a href= https://github.com/zetsux?tab=repositories&q=vscode&sort= > <img width ='32px' height='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png'> </a>
 
-<h2> Check out my GitHub status <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' align="center" width='32px' height=32px> </h2>
+<h2> A view of my stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' align="center" width='32px' height=32px> </h2>
 
 <a href="https://github.com/zetsux">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=zetsux&theme=algolia&margin-w=4&margin-h=2&row=1&no-bg=true" />
